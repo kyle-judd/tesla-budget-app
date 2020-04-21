@@ -1,5 +1,5 @@
 body {
-    background-image: url('images/main_hero_homepage_desktop.jpg');
+    background-image: url('../images/main_hero_homepage_desktop.jpg');
     background-size: cover;
     font-family: 'Roboto', sans-serif;
 }
